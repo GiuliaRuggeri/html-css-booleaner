@@ -1,0 +1,79 @@
+body {
+    margin: auto;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#sfondoheader {
+    background-image: url(/img/pattern.png);
+    background-size: contain;
+    background-color: #0096FF;
+    height: 50px;
+    position: relative;
+
+}
+
+#immagineheader {
+    width: 10%;
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    margin-bottom: 5px;
+
+}
+
+main{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+main h1 {
+    margin-bottom: 4px;
+}
+
+.autore {
+    color: #A9A9A9;
+    display: block;
+}
+
+a {
+    color: #7DF9FF;
+    text-decoration: none;
+
+}
+
+.fototim {
+    margin-top: 10px;
+}
+
+.descrizionefoto {
+    display: block;
+}
+
+.tabella {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.testatatabella {
+    background-color: #0096FF;
+    color: white;
+}
+
+.rigablu {
+    background-color: #89CFF0;
+}
+
+footer {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer h3 {
+    color: #A9A9A9;
+}
+
+.immaginifooter {
+    display: block;
+    margin-bottom: 5px;
+}
