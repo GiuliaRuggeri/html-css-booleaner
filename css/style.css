@@ -1,0 +1,22 @@
+body{
+    margin: auto;
+    padding: 0;
+}
+
+#sfondoheader {
+    background-image: url(/img/pattern.png);
+    background-size:contain;
+    background-color: #0096FF;
+    height: 50px;
+    position: relative;
+
+}
+
+#immagineheader {
+    width: 10%;
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    margin-bottom: 5px;
+
+}
